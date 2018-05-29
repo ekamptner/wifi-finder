@@ -1,6 +1,6 @@
 # wifi-finder
 ==============
-![Screenshot](main/webapp/img/wifiFinder.png)
+![Screenshot](https://github.com/ekamptner/wifi-finder/blob/master/src/main/webapp/img/wifiFinder.PNG)
 
 Repo for Wifi Finder application, a web map that allows users to locate available Wifi hotspots in NYC.
 
